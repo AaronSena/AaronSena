@@ -1,6 +1,12 @@
-<h1 style = "color:#6da1f7;">👩🏻‍💻 Aaron Magalhães Sena </h1>
+<h1 style = "color:#6da1f7;">
+    Desenvolvedor Backend Java 
+    <img align="rigth" 
+        alt="Java"
+        title="Java" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">  </h1>
 
-**`Desenvolvedor Backend Java `**
 
 Sou um desenvolvedor backend com um grande apego por Java, atualmente cursando Engenharia de Software pela FIAP onde também tive contato com a parte de frontend. Tenho sólida base em Programação Orientada a Objetos (OOP) e venho aprofundando meus conhecimentos em Java e Spring Boot, tecnologias que utilizo para construir aplicações robustas, escaláveis e bem estruturadas.
 
